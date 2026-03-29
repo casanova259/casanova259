@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 3rd-year Computer Science student keen to learn software development.<br><br>🧩 Skilled in Data Structures & Algorithms using C++<br>⚛️ Building modern web applications with React and Next ,Supabase<br>🤖 Exploring the intersection of Full Stack Development and AI<br>🎨 Combining code with creativity through gaming and design<br><br>📫 Open to collaborations and learning opportunities!
+Hi! I'm a 3rd-year Computer Science student keen to learn software development.<br><br>🧩 Skilled in Data Structures & Algorithms using C++<br>⚛️ Building modern web applications with React and Firebase<br>🤖 Exploring the intersection of Full Stack Development and AI<br>🎨 Combining code with creativity through gaming and design<br><br>📫 Open to collaborations and learning opportunities!
 
 
 ## 🌐 Socials:
