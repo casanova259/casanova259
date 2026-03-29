@@ -22,7 +22,6 @@ Hi! I'm a passionate Computer Science student exploring the world of software de
 <a href="https://www.x.com/sharma_x_manik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sharma_x_manik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
