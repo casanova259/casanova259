@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Manik Sharma
 =====================================================================================================================================
 
-3rd-year CS Student | Full Stack Developer | AI Enthusiast
+3rd-year CS Student | Builder | AI Enthusiast
 ----------------------------------------------------------
 
 Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [casanova270407@gmail.com](mailto:casanova270407@gmail.com)
-* 🧠  I'm currently learning Full Stack Development, System Design and advanced DSA in C++
+* 🧠  I'm currently Building, System Design and advanced DSA in C++
 * 👥  I'm looking to collaborate on Web development projects, open-source contributions, and AI-powered applications
 * 💬  Ask me about I love combining code with creativity — whether it's through game design, UI/UX, or building tools that solve real problems!
 
