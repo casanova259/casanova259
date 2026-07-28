@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Manik Sharma
 =====================================================================================================================================
 
-3rd-year CS Student | Builder | AI Enthusiast
+3rd-year CS Student | I make things that lives on the Internet 
 ---------------------------------------------
 
 Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI.
