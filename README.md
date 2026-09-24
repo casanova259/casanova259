@@ -8,7 +8,7 @@ Hi! I'm a passionate Computer Science student exploring the world of software de
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [casanova270407@gmail.com](mailto:casanova270407@gmail.com)
-* 🧠  I'm currently learning System Design and advanced DSA in C++
+* 🧠  I'm currently learning System Design and advanced DSA in C++ and advanced backend
 * 👥  I'm looking to collaborate on Web development projects, open-source contributions, and AI-powered applications
 * 💬  Ask me about I love combining code with creativity — whether it's through animations, designs , UI/UX, or building tools that solve real problems!
 
