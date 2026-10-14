@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3rd-year CS Student | I make things that lives on the Internet 
 ---------------------------------------------
 
-Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI.
+Hi! I'm a passionate about everything and  exploring the world of software development — from DSA to full-stack web apps and AI.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [casanova270407@gmail.com](mailto:casanova270407@gmail.com)
